@@ -1,5 +1,5 @@
-def prime?
-prime.each(100) do |prime|
-  p prime
+def prime
+  
+
 end
 
