@@ -7,3 +7,6 @@ if (number % i) == 0
   return false
 end
 end
+TRUE
+end
+
