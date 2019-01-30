@@ -3,7 +3,7 @@ def prime?(number)
     return false
   end
   for i in 2..(number - 1)
-if n
+if (number % 1) == 0
     
     
   
