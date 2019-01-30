@@ -1,7 +1,6 @@
-def prime?
-  prime.each() do |prime|
-  p prime
-
+def prime?(n)
+  
+ 
 end
 
 
