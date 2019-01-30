@@ -4,6 +4,7 @@ def prime?(number)
   end
   for i in 2..(number - 1)
 if (number % i) == 0
+  return false
     
     
   
